@@ -18,3 +18,11 @@ Adjust the input parameters to optimize the trading algorithm.
 Train a new machine learning model and compare its performance to that of a baseline model.
 
 As part of the README.md file in my GitHub repository, I also created a report that compares the performance of the machine learning models based on the trading predictions that each makes and the resulting cumulative strategy returns.
+
+<img width="843" alt="screenshot 1" src="https://github.com/daniyargroove/Algorithmic-Trading-Challenge/assets/143307322/8561c574-9fdd-4b7f-8563-33ff35f8b5c0">
+
+<img width="877" alt="screenshot 2" src="https://github.com/daniyargroove/Algorithmic-Trading-Challenge/assets/143307322/9fa71480-879a-4591-a13c-3fc3e74f9aea">
+
+Initially, it appears that the first model, which predicts actual trends, may be more effective. 
+Analysis indicates that the first model's projections align closely with actual results, and its classification report suggests slightly better predictive quality. However, it's possible that the first model is merely mimicking the original data. 
+To ensure the accuracy of my prediction, I would consider running another version of the model.
