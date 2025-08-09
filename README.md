@@ -1,4 +1,4 @@
-# Algorithmic-Trading-Challenge
+# Algorithmic-Trading-Project
 ![14-4-challenge-image](https://github.com/daniyargroove/Algorithmic-Trading-Challenge/assets/143307322/e3e8ddca-79e5-4ea7-8b16-bc26aa9c0dfe)
 
 ## Background
